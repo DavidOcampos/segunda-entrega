@@ -1,0 +1,44 @@
+body {
+  background-color: #522546; /* Color de uva */
+  color: #f2f2f2; /* Color de texto */
+}
+
+.navbar {
+  background-color: #522546; /* Color bordó */
+  color: #fcf9f9; /* Color de texto */
+}
+
+.navbar-brand img {
+  border: 3px solid #f2f2f2; /* Borde blanco para el logo */
+}
+
+.btn-primary {
+  background-color: #660033; /* Color bordó para botones */
+  border-color: #f2f2f2; /* Color de borde para botones */
+}
+
+.card {
+  background-color: #f2f2f2; /* Fondo blanco para tarjetas */
+  color: #522546; /* Color de texto para tarjetas */
+}
+
+.card-img-top {
+  border-bottom: 5px solid #522546; /* Borde inferior de color uva para imágenes de tarjetas */
+}
+
+.footer {
+  background-color: #522546; /* Color de uva para pie de página */
+  color: #f14d4d; /* Color de texto para pie de página */
+}
+
+.header {
+  background-color: #522546; /* Color de uva */
+  color: #f2f2f2;
+}
+.bg-denguru {
+  background-color: #6f3662; /* Color uva */
+}
+
+.nav-link {
+  color: #fff; /* Letras blancas */
+}
